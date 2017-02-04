@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Sorting</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="css/reset.css">
+  <style>
+    body {
+      margin: 20px;
+      font-size: 30px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Sorting</h1>
+
+    <p>array.sort(<i>function(a,b)</i>)</p>
+    <p>If function returns < 0 then <strong>a</strong> should come first.</p>
+    <p>If function returns 0 then a and b are <strong>equal</strong>.</p>
+    <p>If function returns > 0 then <strong>b</strong> should come first.</p>
+<hr>
+    <p>When sorting numbers...</p>
+    <p><strong>Ascending 1, 2, 3...</strong></p>
+    <p>function(a,b) { return a - b; }</p>
+    <p><strong>Descending 3, 2, 1...</strong></p>
+    <p>function(a,b) { return b - a; }</p>
+  </div>
+</body>
+</html>
