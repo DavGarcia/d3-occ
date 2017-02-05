@@ -1,6 +1,8 @@
 # d3-occ
 [D3](https://d3js.org/) Presentation for [Operation Code & Coffee](https://www.meetup.com/Operation-Code-San-Antonio/)
 
+See the presentation at https://www.youtube.com/watch?v=kz4OCMzkEnY
+
 Find me online at http://davgarcia.com and http://iconbuildings.com
 
 # D3 Examples
